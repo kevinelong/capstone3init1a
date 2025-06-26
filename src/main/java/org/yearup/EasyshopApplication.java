@@ -8,7 +8,10 @@ public class EasyshopApplication
 {
 
     public static void main(String[] args) {
+
         SpringApplication.run(EasyshopApplication.class, args);
+
+
     }
 
 }
